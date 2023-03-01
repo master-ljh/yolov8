@@ -1,0 +1,13 @@
+names:
+- cell
+- tumor_mass
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: tumor-egzxx
+  url: https://universe.roboflow.com/project/tumor-egzxx/dataset/1
+  version: 1
+  workspace: project
+test: ../datasets/tumor-1/test/images
+train: ../datasets/tumor-1/train/images
+val: ../datasets/tumor-1/valid/images
